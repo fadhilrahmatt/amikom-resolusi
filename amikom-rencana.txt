@@ -3,14 +3,16 @@ RENCANA SAYA DI AMIKOM
   - Memiliki Bisnis
   - Menguasai Pemrograman Web & Android
   - Menjadi Designer & Editor
-
+  
 WEB Developer
   - Javascript
     * ES6
     * Framework Javascript
-      ^ Angular
+      ^ Vue
       ^ React
+  - Struktur Data Dasar
   - PHP Framework
     ^ Laravel
   - Interview
   - Vlogs
+  - Python
